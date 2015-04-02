@@ -10,10 +10,10 @@ Research for Web Advanced: Javascript at Parsons
  4.http://justsomeskeletonshanginout.com
  5.http://bonesandtones.com
  6.http://skelesongs.com
- 7.
- 8.
- 9.
- 10.
+ 7.http://spookytunes.com
+ 8.http://scarybonetones.com
+ 9.http://skeletonlounge.com
+ 10.http://spookyserenades.com
   
 2. What type or genre of domain is this? (Ex. Game, Toy, Greeting Card Generator, Creative Tool, Political Pamphlet, Archive)
 
